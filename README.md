@@ -21,15 +21,15 @@ Report 6
 B&S market, Geometric Brownian Motion simulation (VBA or Python), pricer of vanillas (one or multiple steps Euler scheme), Asian options, Lookback options.
 
 
-#Main Topics
+##Main Topics
 
 VBA excel
-Option, futures and other derivatives pricing
-Binomial model
-Black & Scholes
-Discrete and continuous time
-Hedging portfolios
-Multi asset markets
-Stochastic volatility
+Option, futures and other derivatives pricing,
+Binomial model,
+Black & Scholes,
+Discrete and continuous time,
+Hedging portfolios,
+Multi asset markets,
+Stochastic volatility,
 Monte Carlo method
 
