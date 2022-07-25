@@ -2,7 +2,7 @@
 
 Unipd course held by professor Martino Grasselli (2021-22)
 
-Pricing of options and other contracts
+Option, futures and other derivatives pricing
 
 Binomial model
 
