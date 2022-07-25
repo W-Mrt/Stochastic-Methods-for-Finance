@@ -2,28 +2,28 @@
 
 Unipd course held by professor Martino Grasselli (2021-22)
 
-Report 1
+Report 1 :
 Returns, historical volatility, capitalisation factor (simple compounding/ discounting), risk neutral probability.
 
-Report 2
+Report 2 :
 Equity market quotes, box spread, call-put parity.
 
-Report 3
+Report 3 :
 VBA binomial model, Black & Scholes, Leisen and Reimer.
 
-Report 4
+Report 4 :
 VBA greeks, shock volatility, implied volatility smile/skew, B&S with interest rate.
 
-Report 5
+Report 5 :
 average and variance of an equibalanced portfolio, parametric single and joint normal VaR, Monte Carlo VaR, historical simulation VaR.
 
-Report 6
+Report 6 :
 B&S market, Geometric Brownian Motion simulation (VBA or Python), pricer of vanillas (one or multiple steps Euler scheme), Asian options, Lookback options.
 
 
 ##Main Topics
 
-VBA excel
+VBA excel,
 Option, futures and other derivatives pricing,
 Binomial model,
 Black & Scholes,
