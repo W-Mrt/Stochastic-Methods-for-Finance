@@ -15,7 +15,7 @@ Report 4 :
 VBA greeks, shock volatility, implied volatility smile/skew, B&S with interest rate.
 
 Report 5 :
-average and variance of an equibalanced portfolio, parametric single and joint normal VaR, Monte Carlo VaR, historical simulation VaR.
+Average and variance of an equibalanced portfolio, parametric single and joint normal VaR, Monte Carlo VaR, historical simulation VaR.
 
 Report 6 :
 B&S market, Geometric Brownian Motion simulation (VBA or Python), pricer of vanillas (one or multiple steps Euler scheme), Asian options, Lookback options.
